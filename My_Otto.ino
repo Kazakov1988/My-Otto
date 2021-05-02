@@ -11,6 +11,8 @@
 //-- When the time has passed, as soon as someone appears within sight of the distance sensor, Otto will begin gesturing to ask to stroke it again. 
 //-- At the same time, the robot retains full Bluetooth control using the official application. 
 //-- Check out the comments in the firmware to change Otto's behavior and reaction as you see fit.
+//-- 
+//-- Video - https://youtu.be/8XB_GGpk2u4
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #include <Oscillator.h>
